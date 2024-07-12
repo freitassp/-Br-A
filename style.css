@@ -128,7 +128,7 @@ nav {
 }
 
 .sessao {
-    background-color: #f9f9f9;
+    background-color: #ededed;
     padding: 50px 0;
     max-width: 100%;
     overflow: hidden;
@@ -207,11 +207,27 @@ main {
 }
 
 .info-bloco {
-    background-color: #f9f9f9;
     padding: 10px;
     border-radius: 8px;
 }
 
+#minhocas{
+    width:600px;
+    height: 300px;
+}
+
+#sobre-banner{
+    margin-left: 40%;
+    margin-top: 5%;
+    margin-bottom: 0%;
+    width: 30%;
+    height: 70%;
+    border-radius: 10%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
 .info-bloco h3 {
     margin-top: 0;
 }
